@@ -15,7 +15,7 @@ import java.awt.event.MouseEvent;
 import java.util.Random;
 
 public class TossFrame extends JFrame {
-
+/**2nd commit**/
 	private JPanel contentPane;
 	private JTextField p1Name;
 	private JTextField p2Name;
